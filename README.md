@@ -74,7 +74,7 @@ Each algorithm was trained under all four sampling methods.
 
 ## 📁 Files
 
-- `x.ipynb`: Main Jupyter notebook containing code, analysis, and visualizations
+- `.ipynb`: Main Jupyter notebook containing code, analysis, and visualizations
 - `README.md`: Project overview and documentation
 
 ---
