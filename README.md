@@ -65,7 +65,7 @@ Each algorithm was trained under all four sampling methods.
 - **Sampling Strategy**: ADASYN
 - **Metrics**:
   - **ROC AUC**: ~0.98
-  - **Recall**: **0.86**
+  - **Recall**: **0.83**
   - Balanced performance, especially on detecting fraudulent cases
 
 📌 The combination of **XGBoost + ADASYN** achieved the best balance between recall and precision, proving effective in catching hard-to-detect fraud cases.
