@@ -90,6 +90,4 @@ Each algorithm was trained under all four sampling methods.
 ## 📚 How to Run
 
 1. Clone the repository
-2. Install the necessary packages:
-   ```bash
-   pip install -r requirements.txt
+2. run the .ipynb files
